@@ -1032,7 +1032,7 @@ namespace RBX_Alt_Manager
             this.DescriptionBox.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(122)))), ((int)(((byte)(122)))));
             this.DescriptionBox.Location = new System.Drawing.Point(504, 150);
             this.DescriptionBox.Name = "DescriptionBox";
-            this.DescriptionBox.Size = new System.Drawing.Size(268, 80);
+            this.DescriptionBox.Size = new System.Drawing.Size(197, 20);
             this.DescriptionBox.TabIndex = 11;
             this.DescriptionBox.Text = "Description";
             // 
